@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "BrokHoly",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync-history": "^1.0.1"
+  }
 }
